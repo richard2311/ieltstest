@@ -1,0 +1,10 @@
+/lấy code xuống
+b1: git init   / tạo địa chỉ folder trên máy lấy xuống , tạo file ẩn .git
+b2: git clone (link vừa copy)
+/đẩy tài liệu trên git
+b1: tạo respository trên github copy (link 1)
+b2: vao folder muon day len tren git, vao phan git bash here
+b3: neu folder chua co file .git thi nhap lenh: git init neu da co file .git thi bo qua
+b4: git add .
+b5: git commit -m "ghi chu" 
+b6: git remote add origin (link 1)
